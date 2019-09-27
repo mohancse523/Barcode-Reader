@@ -8,7 +8,7 @@
 
     <application>
         <activity android:name=".BarcodeReaderActivity"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
+            android:theme="@style/Theme.AppCompat.Light"></activity>
     </application>
 
 </manifest>
